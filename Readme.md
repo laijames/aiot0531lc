@@ -1,9 +1,13 @@
 # AIoT Github
 
 ## Lecture 15: IoT Flask Web (deploy to heroku)
+## 前置作業:註冊 Heroku, github 請下載 HeidiSQL, VS code 
 
 ### step 1 : Clone this github
-
+ ctrl+shift+p 輸入 git:clone https://github.com/huanchen1107/aiot0530-start-no-token
+ 選擇自己要的folder存放
+ 原本是要把local folder裡的.git刪掉(以便產生自己的管理員)並建立自己的repository
+ 但我的電腦沒有.git 所以我自己新增了一個空資料夾再將必要資料放進去，這樣就可以建立自己的管理員了
 ### step 2 : install some package
 
 
@@ -58,11 +62,8 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
-
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+my link:
+https://aiot0531lc.herokuapp.com/
 
 
 
