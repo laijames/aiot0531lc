@@ -31,12 +31,12 @@ numpy
 ### step 4: login to heroku pstgredb using HeidiSQL
 * 透過HeidiSQL登入STEP3建立的 heroku pstgredb 
 下列為設定值(主機名稱 user 密碼 資料庫請依自己的postgredb填入)
-![image](./image/.jpg)
+![image](./image/4.jpg)
 
 ### step 5: import postgredb (in db/postgre.db)
 * ctrl+o並選擇db folder裡的postgre.db
 * 執行
-![image](image./6.jpg)
+![image](./image/6.jpg)
 (出現照片裡的sensors 表示成功寫入資料庫)
 ### step 6: setting db in app.py
 * app.py寫入db的資料如下述，改成自己的資料 透過app.py去跑db
@@ -64,7 +64,7 @@ https://aiot0531lc.herokuapp.com/
 
 * image
 (call ai)
-![image](image./3.jpg)
+![image](./image./3.jpg)
 (no ai)
-![image](image./7.jpg)
+![image](./image/7.jpg)
 
