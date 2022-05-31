@@ -27,7 +27,7 @@ numpy
 * go to dashboard
 * new an app
 * go to resource and add-on an Heroku postgredb
-![](image%5C5.jpg)
+![image](image%5C5.jpg)
 ### step 4: login to heroku pstgredb using HeidiSQL
 * 透過HeidiSQL登入STEP3建立的 heroku pstgredb 
 
