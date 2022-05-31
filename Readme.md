@@ -55,10 +55,10 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 
 ### step 9: Heroku deploy from github
-*到heroku頁面連結自己github的repository
-*deploy
+* 到heroku頁面連結自己github的repository
+* deploy
 ### step 10: Complete
-*deploy後會產生連結，即可以遠端執行程式並產生highchart
+* deploy後會產生連結，即可以遠端執行程式並產生highchart
 my link:
 https://aiot0531lc.herokuapp.com/
 
