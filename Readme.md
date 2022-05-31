@@ -1,7 +1,7 @@
 # AIoT Github
 
 ## Lecture 15: IoT Flask Web (deploy to heroku)
-## 前置作業:註冊 Heroku, github 請下載 HeidiSQL, VS code 
+### 前置作業:註冊 Heroku, github 請下載 HeidiSQL, VS code 
 
 ### step 1 : Clone this github
  ctrl+shift+p 輸入 git:clone https://github.com/huanchen1107/aiot0530-start-no-token
@@ -10,7 +10,7 @@
  但我的電腦沒有.git 所以我自己新增了一個空資料夾再將必要資料放進去，這樣就可以建立自己的管理員了
 ### step 2 : install some package
 
-
+* ctrl+` 開啟終端並輸入以下文字以安裝相關模組
 ```python
 pip insall gunicorn   
 Flask==2.0.1 
@@ -27,8 +27,9 @@ numpy
 * go to dashboard
 * new an app
 * go to resource and add-on an Heroku postgredb
-
+![](image%5C5.jpg)
 ### step 4: login to heroku pstgredb using HeidiSQL
+* 透過HeidiSQL登入STEP3建立的 heroku pstgredb 
 
 
 ```sql
