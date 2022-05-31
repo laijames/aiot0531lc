@@ -64,7 +64,7 @@ https://aiot0531lc.herokuapp.com/
 
 * image
 (call ai)
-![image](./image./3.jpg)
+![image](./image/3.jpg)
 (no ai)
 ![image](./image/7.jpg)
 
